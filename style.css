@@ -1,0 +1,70 @@
+.navbar a {
+    font-weight: bold;
+}
+.penguin-header {
+    background-color:antiquewhite;
+}
+.penguin-font {
+    font-weight: bold;
+}
+.penguin-color1 {
+    color: #fcd80a;
+}
+.penguin-color2 {
+    color: #031633;
+}
+p {
+    font-size: 18px;
+}
+.penguin-button {
+    background-color: #84d157;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 0;
+}
+.penguin-button img {
+    width: 20%;
+}
+#woman-jacket img {
+    height: 400px;
+    background-color: #F8F9FA;
+    border-radius: 10px;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+}
+#man-jacket img {
+    height: 400px;
+    background-color: #F8F9FA;
+    border-radius: 10px;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+}
+.icon {
+    width: 60px;
+    height: auto;
+}
+.contact-area h3 {
+    font-weight: bold;
+}
+.rating {
+    margin-top: -35px;
+}
+.footer-area {
+    background-color: antiquewhite;
+}
+.social-media i {
+    font-size: 30px;
+    color: #031633;
+}
+.social-media i:hover  {
+    color:  #fcd80a;
+}
+footer li {
+    list-style: none;
+}
+footer li a {
+    text-decoration: none;
+    color: black;
+}
